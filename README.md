@@ -1,7 +1,7 @@
 
 #    Resumo das Aulas – Processamento de Linguagem Natural
 
-Este repositório contém os notebooks desenvolvidos ao longo do curso de PLN, organizados por aula. Abaixo estão os resumos das aulas 2 a 13.
+Este repositório contém os notebooks desenvolvidos ao longo do curso de PLN, organizados por aula. Abaixo estão os resumos das aulas 2 a 12.
 
 ---
 
