@@ -148,7 +148,7 @@ Este repositório contém os notebooks desenvolvidos ao longo do curso de PLN, o
 
 ---
 
-## Aula 12 e 13 – Redes Neurais: Modelagem com RNN
+## Aula 12 – Redes Neurais: Modelagem com RNN
 
 ###   Objetivos
 - Construir um modelo de linguagem baseado em Redes Neurais Recorrentes (RNN).
